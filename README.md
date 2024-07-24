@@ -21,17 +21,29 @@ Here are some of the technologies I work with:
 - **Time Series Analysis**
 - **Data Visualization**
 
-### Projects
+## Projects
 
-- [Project 1](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch):
-  - **Project Overview**:
-  - **Tech Stack**:
-  - **Methodology**:
+- [Project 1: Coffee Shop Sales Report](https://github.com/Emmalamlfz/Coffee-Shop-Sales-Report):
+  - **Project Overview**: This project aims to analyze the sales data of a coffee shop to understand sales trends, customer preferences, and peak sales periods. 
+  - **Tech Stack**: Power BI(Query, Pivot), Excel
+  - **Methodology**: Data Visualisation
 
 - [Project 2](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch): Description of project 2.
   - **Project Overview**:
   - **Tech Stack**:
   - **Methodology**:
+
+- [Project 3: ](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch): Description of project 2.
+  - **Project Overview**:
+  - **Tech Stack**:
+  - **Methodology**:
+
+
+
+
+
+
+
 
 ### Contact
 
