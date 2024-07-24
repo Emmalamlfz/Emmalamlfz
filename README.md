@@ -28,11 +28,13 @@
   - **Tech Stack**: SQL, Python, R, SPSS
   - **Methodology**: K-Means, Feature Engineering, Conjoint Analysis, PCA
 
+- [Project 4: Stock Investment Customization](https://github.com/Emmalamlfz/Stock-investment):
+  - **Tech Stack**: Python, R
+  - **Methodology**: Forecasting (GARCH, LSTM), Goal Programming, Optimization
 
-
-
-
-
+- [Project 5: Supermarket Campaign Design](https://github.com/Emmalamlfz/Supermarket-Campaign-Design):
+  - **Tech Stack**: Python, R, SPSS
+  - **Methodology**: Customer Analysis, RFM model, Classification, Clustering
 
 
 
