@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on data science and data engineer projects 
 - 🌱 I’m passionate about business, technology, coding, language learning and so much more
-- ⚡ Fun fact: I enjoy learning new languages! Currently, I'm studying Spanish and German and exploring their cultural nuances.
+- ⚡ Fun fact: I enjoy learning new languages! I'm studying Spanish and German and exploring their cultural nuances.
 
 ## Tech Stack
 
@@ -12,7 +12,7 @@
 
 ## Data Science Skills
 
-- **Statistical Modelling**, **Exploratory Data Analysis (EDA)**, **Machine Learning**, **Data Wrangling**, **Experimentation and Hypothesis Testing**, **Time Series Analysis**, **Data Visualization**
+- **Statistical Modelling**, **Exploratory Data Analysis (EDA)**, **Machine Learning**, **Data Wrangling**, **Experimentation & Hypothesis Testing**, **Time Series Analysis**, **Data Visualization**
 
 ## Projects
 
@@ -24,12 +24,12 @@
 - [Project 2: Gaming Comment Analysis-Genshin Impact](https://github.com/Emmalamlfz/Gaming-Comment-Analysis?tab=readme-ov-file): 
   - **Project Overview**: In this project, we web scraped Google Play Store reviews, conducted sentiment analysis and LDA modeling, and created word cloud maps. We also provided corpus design advice. Using logistic regression and random forest, we classified comments and developed a composite metric to trigger alerts.
   - **Tech Stack**: Python, R
-  - **Methodology**: Webscrapping, Text Analytics(Sentiment Analysis, LDA for classification), Machine Learning(Classification), Forecasting
+  - **Methodology**: Webscrapping, Text Analytics(Sentiment Analysis, LDA), Classification, Forecasting
 
-- [Project 3: ](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch): Description of project 2.
-  - **Project Overview**:
-  - **Tech Stack**:
-  - **Methodology**:
+- [Project 3: PepsiCo New Product Launch](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch):
+  - **Project Overview**: In this project, I aimed to provide marketing insights and new product launch suggestions for PepsiCo potato chips.
+  - **Tech Stack**: SQL, Python, R, SPSS
+  - **Methodology**: K-Means, Feature Engineering, Conjoint Analysis, PCA
 
 
 
