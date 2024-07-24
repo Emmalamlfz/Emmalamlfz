@@ -35,12 +35,6 @@
 
 
 
-### Contact
-
-- Email: emmlamlfz@gmail.com
-- LinkedIn: [Fangzhou Lin](https://www.linkedin.com/in/fangzhoulin/)
-
-
 
 <!--
 **Emmalamlfz/Emmalamlfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
