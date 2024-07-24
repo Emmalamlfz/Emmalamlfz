@@ -5,7 +5,6 @@
 - ⚡ Fun fact: I enjoy learning new languages! Currently, I'm studying Spanish and German and exploring their cultural nuances.
 
 ## Tech Stack
-Here are some of the technologies I work with:
 
 - **Programming Languages**: SQL, R, Python (NumPy, Pandas, Matplotlib, Scikit-Learn, etc.)
 - **BI & Visualization Tools**: Power BI, Tableau, Excel (Pivot table, VLookup)
@@ -22,10 +21,10 @@ Here are some of the technologies I work with:
   - **Tech Stack**: Power BI(Query, Pivot), Excel
   - **Methodology**: Data Visualisation
 
-- [Project 2](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch): Description of project 2.
-  - **Project Overview**:
-  - **Tech Stack**:
-  - **Methodology**:
+- [Project 2: Gaming Comment Analysis-Genshin Impact](https://github.com/Emmalamlfz/Gaming-Comment-Analysis?tab=readme-ov-file): 
+  - **Project Overview**: In this project, we web scraped Google Play Store reviews, conducted sentiment analysis and LDA modeling, and created word cloud maps. We also provided corpus design advice. Using logistic regression and random forest, we classified comments and developed a composite metric to trigger alerts.
+  - **Tech Stack**: Python, R
+  - **Methodology**: Webscrapping, Text Analytics(Sentiment Analysis, LDA for classification), Machine Learning(Classification), Forecasting
 
 - [Project 3: ](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch): Description of project 2.
   - **Project Overview**:
