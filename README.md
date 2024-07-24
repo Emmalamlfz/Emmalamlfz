@@ -1,19 +1,42 @@
-## Hi there 👋
+## Hi there 👋 I'm Fangzhou Lin (Emma).
 
-Hi, I'm Fangzhou Lin (Emma).
 - 🔭 I’m currently working on data science and data engineer projects 
-- 🌱 I’m currently learning business, technology, coding and so much more
+- 🌱 I’m passionate about business, technology, coding, language learning and so much more
+- ⚡ Fun fact: I enjoy learning new languages! Currently, I'm studying Spanish and German and exploring their cultural nuances.
+
+## Tech Stack
+Here are some of the technologies I work with:
+
+- **Programming Languages**: SQL, R, Python (NumPy, Pandas, Matplotlib, Scikit-Learn, etc.)
+- **BI & Visualization Tools**: Power BI, Tableau, Excel (Pivot table, VLookup)
+- **Databases & Cloud**: MySQL, SQL Server, Azure (DataBricks, Azure Data Lake, Azure Data Warehouse)
+
+## Data Science Skills
+
+- **Statistical Modelling**
+- **Exploratory Data Analysis (EDA)**
+- **Machine Learning**
+- **Data Wrangling**
+- **Experimentation and Hypothesis Testing**
+- **Time Series Analysis**
+- **Data Visualization**
 
 ### Projects
 
-- [Project 1](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch): Description of project 1.
-- [Project 2](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch): Description of project 2.
+- [Project 1](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch):
+  - **Project Overview**:
+  - **Tech Stack**:
+  - **Methodology**:
 
+- [Project 2](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch): Description of project 2.
+  - **Project Overview**:
+  - **Tech Stack**:
+  - **Methodology**:
 
 ### Contact
 
 - Email: emmlamlfz@gmail.com
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/fangzhoulin/])
+- LinkedIn: [Fangzhou Lin]([https://www.linkedin.com/in/fangzhoulin/])
 
 
 
