@@ -13,17 +13,11 @@ Here are some of the technologies I work with:
 
 ## Data Science Skills
 
-- **Statistical Modelling**
-- **Exploratory Data Analysis (EDA)**
-- **Machine Learning**
-- **Data Wrangling**
-- **Experimentation and Hypothesis Testing**
-- **Time Series Analysis**
-- **Data Visualization**
+- **Statistical Modelling**, **Exploratory Data Analysis (EDA)**, **Machine Learning**, **Data Wrangling**, **Experimentation and Hypothesis Testing**, **Time Series Analysis**, **Data Visualization**
 
 ## Projects
 
-- [Project 1: Coffee Shop Sales Report](https://github.com/Emmalamlfz/Coffee-Shop-Sales-Report):
+- [Project 1: Coffee Shop Sales Report](https://github.com/Emmalamlfz/Coffee-Shop-Sales-Report) :
   - **Project Overview**: This project aims to analyze the sales data of a coffee shop to understand sales trends, customer preferences, and peak sales periods. 
   - **Tech Stack**: Power BI(Query, Pivot), Excel
   - **Methodology**: Data Visualisation
