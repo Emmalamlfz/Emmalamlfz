@@ -17,17 +17,14 @@
 ## Projects
 
 - [Project 1: Coffee Shop Sales Report](https://github.com/Emmalamlfz/Coffee-Shop-Sales-Report) :
-  - **Overview**: This project aims to analyze the sales data of a coffee shop to understand sales trends, customer preferences, and peak sales periods. 
   - **Tech Stack**: Power BI(Query, Pivot), Excel
   - **Methodology**: Data Visualisation
 
 - [Project 2: Gaming Comment Analysis-Genshin Impact](https://github.com/Emmalamlfz/Gaming-Comment-Analysis?tab=readme-ov-file): 
-  - **Overview**: In this project, we web scraped online reviews, conducted sentiment analysis and LDA modeling, and created word cloud maps. We also provided corpus design advice. Using logistic regression and random forest, we classified comments and developed a composite metric to trigger alerts.
   - **Tech Stack**: Python, R
   - **Methodology**: Webscrapping, Text Analytics(Sentiment Analysis, LDA), Classification, Forecasting
 
 - [Project 3: PepsiCo New Product Launch](https://github.com/Emmalamlfz/PepsiCo-New-Product-Launch):
-  - **Overview**: In this project, I aimed to provide marketing insights and new product launch suggestions for PepsiCo potato chips.
   - **Tech Stack**: SQL, Python, R, SPSS
   - **Methodology**: K-Means, Feature Engineering, Conjoint Analysis, PCA
 
@@ -41,7 +38,7 @@
 ### Contact
 
 - Email: emmlamlfz@gmail.com
-- LinkedIn: [Fangzhou Lin]([https://www.linkedin.com/in/fangzhoulin/])
+- LinkedIn: [Fangzhou Lin](https://www.linkedin.com/in/fangzhoulin/)
 
 
 
