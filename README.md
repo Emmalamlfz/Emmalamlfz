@@ -18,7 +18,7 @@
 
 - [Project 1: Coffee Shop Sales Report](https://github.com/Emmalamlfz/Coffee-Shop-Sales-Report) :
   - **Tech Stack**: Power BI(Query, Pivot), Excel
-  - **Methodology**: Data Visualisation
+  - **Methodology**: Data Wrangling, Data Visualisation
 
 - [Project 2: Gaming Comment Analysis-Genshin Impact](https://github.com/Emmalamlfz/Gaming-Comment-Analysis?tab=readme-ov-file): 
   - **Tech Stack**: Python, R
