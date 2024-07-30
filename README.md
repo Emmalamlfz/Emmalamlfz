@@ -35,6 +35,9 @@
   - **Tech Stack**: Python, R, SPSS
   - **Methodology**: Customer Analysis, RFM model, Classification, Clustering
 
+- [Project 6: Credit Risk Analysis](https://github.com/Emmalamlfz/Credit-Risk-Analysis-Project):
+  - **Tech Stack**: Python
+  - **Methodology**: Classification, Logisitc Regression
 
 
 <!--
