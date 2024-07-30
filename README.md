@@ -39,8 +39,11 @@
   - **Tech Stack**: Python
   - **Methodology**: Classification, Logisitc Regression
 
-## Projects
-In addition to these main projects, I've completed numerous smaller practice exercises and mini-projects: [Data Engineering Projects Compilation](https://github.com/Emmalamlfz/Credit-Risk-Analysis-Project)
+## Additional Practice
+In addition to these main projects, I've completed numerous smaller practice exercises and mini-projects: 
+- [Data Engineering Compilation](https://github.com/Emmalamlfz/ETL_Project1)
+
+
 
 <!--
 **Emmalamlfz/Emmalamlfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
