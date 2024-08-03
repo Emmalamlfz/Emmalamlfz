@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Fangzhou Lin (Emma).
 
 - 🔭 I’m working on data science and engineering projects.
-- 🌱 Passionate about business, tech, coding, and languages(German/French/Spanish).
+- 🌱 Passionate about business, tech, coding, and languages(Japanese/German/Spanish).
 
 ## Tech Stack
 
